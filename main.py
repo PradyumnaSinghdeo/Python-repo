@@ -1,3 +1,2 @@
-# String
-name = "Pradyumna, Sonu"
-print(name[0:4])
+for k in range(1, 12, 3):
+    print(k)
