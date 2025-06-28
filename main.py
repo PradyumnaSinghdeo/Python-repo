@@ -1,2 +1,5 @@
-for k in range(1, 12, 3):
-    print(k)
+a = int(input("Enter a value A "))
+b = int(input("Enter a value B "))
+
+sum = a+b
+print(sum)
